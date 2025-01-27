@@ -20,4 +20,5 @@ setup(
 
     install_requires = ['colorama','requests','urllib3'],
     console =['infoga.py'],
+
 )
